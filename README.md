@@ -39,3 +39,12 @@ Vous arrivez sur cette page :
 ![New Draft](./assets/newDraft.png)
 
 ## L'interface d'un projet
+
+**Menu de droite**  
+![Menu droite](./assets/menuDroite.png)
+
+- **Design** : la partie où vous créerez votre projet (ajout de page, de différents éléments, de texte...)
+- **Prototype** : Ici, vous créerez les relations entre les différents parties de votre projet.
+- **Code** : Vous reprendrez bien un peu de CSS ?
+
+Le bouton **PLAY** vous permet de tester votre appli en "conditions réelles".
