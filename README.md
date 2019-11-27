@@ -1,7 +1,7 @@
 # FIGMA
 
 **Figma, qu'est-ce que c'est ?**  
-C'est une application qui permet de créer des interfaces d'applications web & mobiles. Elle permet de réaliser des prototypages montrant aux clients et/ou développeurs les différentes interactions possibles.
+C'est une application qui permet de créer des interfaces d'applications web & mobiles. Elle permet de réaliser des prototypages montrant aux clients et/ou développeurs les différentes interactions possibles avec votre produit.
 
 **PRO's**
 
@@ -26,3 +26,16 @@ Rien de bien compliqué, il suffit de se rendre [ici](https://www.figma.com/).
 De cliquer sur **SIGN UP** (en haut à droite, oui là, le gros bouton noir) et de remplir le formulaire.  
 Vous arriverez sur votre dashboard, qui ressemble à ceci :  
 ![Votre dashboard](./assets/dashboard.png)
+
+Il y a de base 3 "tuto" pour vous expliquer les bases de Figma.
+
+- Figma Basics : l'interface.
+- Prototyping in Figma : le prototypage.
+- Wireframing in Figma : vous trouverez bien tous seuls !
+
+**Créer un projet**  
+Dans le menu de gauche, cliquez sur le " + " à côté de "Drafts".  
+Vous arrivez sur cette page :
+![New Draft](./assets/newDraft.png)
+
+## L'interface d'un projet
