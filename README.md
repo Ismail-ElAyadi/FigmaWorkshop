@@ -102,3 +102,19 @@ Une arborescence s'est créée et contient tout ce qu'il y a dans votre "vue" Ma
 ### L'élément bonus
 
 Je vous laisse vous débrouiller, vous êtes grands maintenant !
+
+# User Stories
+
+Maintenant que vous avez pris en main Figma et que vous savez plus ou moins où tout se trouve, on va compliquer un peu tout ça !
+
+Je vais vous proposer différentes **user story**. Choisissez-en une et **prototypez**-la !
+
+## Case #00-01 : The old cat lady
+
+Bonjour ! Je m'appelle Gilberte Dugenou. J'ai 65 ans et je suis retraitée de la Poste. Je vis seule et je n'ai pas d'enfant. Enfin, quand je dis que je n'ai pas d'enfant, je parle d'enfant humain. Je vis avec 6 chats : **Mr Bigglesworth**, **Miss Swifty**, **Dr Jones**, **Lady Humphrey**, **Diana** et **Queen Mary**.  
+Je souhaiterais acheter des **fournitures** pour mes chers petits : des **paniers**, des **croquettes**, des **jouets**, des **produits cosmétiques**.  
+Ma vue n'est plus ce qu'elle était et il me faut une interface **épurée**, où tout est facilement atteignable. S'il y a **trop de menus et de sous-menus** je m'y perds et j'abandonne.  
+**Votre mission :**
+
+- Mme Dugenou n'a pas de smartphone, elle ne possède qu'un vieil ordinateur.
+- Créer une e-boutique simple avec une interface épurée et des éléments visibles.
