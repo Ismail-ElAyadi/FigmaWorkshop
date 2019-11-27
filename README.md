@@ -107,7 +107,7 @@ Je vous laisse vous débrouiller, vous êtes grands maintenant !
 
 Maintenant que vous avez pris en main Figma et que vous savez plus ou moins où tout se trouve, on va compliquer un peu tout ça !
 
-Je vais vous proposer différentes **user story**. Choisissez-en une et **prototypez**-la !
+Je vais vous proposer différentes **user stories**. Choisissez-en une et **prototypez**-la !
 
 ## Case #00-01 : The old cat lady
 
