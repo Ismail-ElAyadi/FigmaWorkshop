@@ -1,6 +1,6 @@
 # FIGMA
 
-**Figma, qu'est-ce que c'est ?**
+**Figma, qu'est-ce que c'est ?**  
 C'est une application qui permet de créer des interfaces d'applications web & mobiles. Elle permet de réaliser des prototypages montrant aux clients et/ou développeurs les différentes interactions possibles.
 
 **PRO's**
@@ -14,8 +14,8 @@ C'est une application qui permet de créer des interfaces d'applications web & m
 - Vous êtes cuits s'il n'y a pas de réseau.
 - A terme, il vous faudra un abonnement (contrairement à Adobe XD)
 
-**Tarifs**
-**Starter** : Free
-**Pro** : 12$/éditeur/mois
-    **Organisation** : 45$/éditeur/mois
+**Tarifs**  
+**Starter** : Free  
+**Pro** : 12$/éditeur/mois  
+    **Organisation** : 45$/éditeur/mois  
 [Les offres](https://www.figma.com/pricing/)
