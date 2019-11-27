@@ -1,4 +1,8 @@
-[BACK TO MAIN PAGE](./README.md)
+### Table des matières
+
+- [Premiers pas](./README.md)
+- User Stories : c'est ici !
+- [How to](./howTo.md)
 
 # User Stories
 

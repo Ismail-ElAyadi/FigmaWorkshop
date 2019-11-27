@@ -1,5 +1,11 @@
 # FIGMA
 
+### Table des matières
+
+- Premiers pas (c'est ici !)
+- [User Stories](./UserStories.md)
+- [How to](./howTo.md)
+
 **Figma, qu'est-ce que c'est ?**  
 C'est une application qui permet de créer des interfaces d'applications web & mobiles. Elle permet de réaliser des prototypages montrant aux clients et/ou développeurs les différentes interactions possibles avec votre produit.
 
