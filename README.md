@@ -11,7 +11,7 @@ C'est une application qui permet de créer des interfaces d'applications web & m
 
 **CON's**
 
-- Vous êtes cuits s'il n'y a pas de réseau.
+- Vous êtes cuits s'il n'y a pas de réseau.:clown_face:
 - A terme, il vous faudra un abonnement (contrairement à Adobe XD)
 
 **Tarifs**  
@@ -19,3 +19,10 @@ C'est une application qui permet de créer des interfaces d'applications web & m
 **Pro** : 12$/éditeur/mois  
     **Organisation** : 45$/éditeur/mois  
 [Les offres](https://www.figma.com/pricing/)
+
+## Se créer un compte
+
+Rien de bien compliqué, il suffit de se rendre [ici](https://www.figma.com/).  
+De cliquer sur **SIGN UP** (en haut à droite, oui là, le gros bouton noir) et de remplir le formulaire.  
+Vous arriverez sur votre dashboard, qui ressemble à ceci :  
+![Votre dashboard](./assets/dashboard.png)
