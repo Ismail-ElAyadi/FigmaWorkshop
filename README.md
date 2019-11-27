@@ -128,3 +128,23 @@ Voici quelques exemples de boutiques en ligne :
 - [Caran d'Ache](https://www.carandache.com/be/fr/?gclid=Cj0KCQiA2vjuBRCqARIsAJL5a-JdaFeEcpntY37oruHsRdLtBeCAG4HjGIPOH0vaGnv7v16fFm16O04aAu7mEALw_wcB)
 
 Dans le repo, vous trouvrez un dossier 00-01 contenant des images pour l'exercice.
+
+## Case #00-02 : L'Annonceur d'Arkham
+
+**L'Annonceur d'Arkham** est un **journal papier** qui diffuse des informations pertinentes depuis 150 ans à des lecteurs de **toutes générations** ! Nous souhaitons rajeunir notre image en diffusant notre journal sur le web. Cependant, nous tenons à garder une image **respectable** qui inspire la confiance. Idéalement, les lecteurs auront accès aux **dernières informations** ainsi qu'à des **articles** plus détaillés.  
+Nous souhaiterions diffuser nos informations sous forme de "blog amélioré" avec différents menus menant aux différentes catégories.
+
+**Votre missions :**
+
+- Créer une page d'accueil qui reprend les dernières informations "hot topic".
+- Donner accès à des articles détaillés, classés par catégories : Société, Sport, Art & Culture, Sciences.
+- Permettre de noter ("liker") les différents articles.
+- Entre 1 et 3 pages.
+
+Voici quelques exemples de sites d'informations :
+
+- [New York Times](https://www.nytimes.com/)
+- [Huffington Post](https://www.huffingtonpost.fr/)
+- [La Libre](https://www.lalibre.be/)
+
+## Case #00-03 :
