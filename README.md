@@ -75,7 +75,16 @@ Pour commencer, histoire de prendre ses marques, on va se créer une page avec q
 On clique sur **Frame** et on choisit un type d'appareil (Desktop > MacBook)  
 ![projet](./assets/projet01.png)
 
-Le menu de droite vous permet de configurer l'élément nouvellement créé.  
+Le menu de droite vous permet de configurer l'élément nouvellement créé. Le menu n'apparaît que si on sélectionne l'élément.  
 ![menu droite](./assets/projet01_menuDroite.png)
 
-Commençons par changer la couleur de fond. ASTUCE : Background :scream:
+Commençons par changer la couleur de fond. **ASTUCE** : Background :scream:
+
+### Ajout d'une image :
+
+Si vous avez bien lu tout le blabla plus haut, vous devriez avoir une petite idée d'où aller chercher votre image...
+
+Non ? Vous êtes de ceux qui ne lisent pas la doc... Allez, je suis sympa : **c'est en haut et c'est carré**.  
+Sinon, le drag & drop fonctionne bien aussi.  
+A **droite**, toujours pareil, les réglages de l'élement. A **gauche**, dans l'onglet **Layers**, votre image apparaît.  
+![image](./assets/projet01_img.png)
