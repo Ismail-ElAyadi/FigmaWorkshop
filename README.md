@@ -118,3 +118,13 @@ Ma vue n'est plus ce qu'elle était et il me faut une interface **épurée**, o�
 
 - Mme Dugenou n'a pas de smartphone, elle ne possède qu'un vieil ordinateur.
 - Créer une e-boutique simple avec une interface épurée et des éléments visibles.
+- Entre 1 et 3 pages.
+- Une page panier.
+
+Voici quelques exemples de boutiques en ligne :
+
+- [Zooplus](https://www.zooplus.be/?tduid=8ee745804fcad5809e0cf777a2dea6fe)
+- [Colruyt](https://www.colruyt.be/fr?gclid=Cj0KCQiA2vjuBRCqARIsAJL5a-JLSIf98i9teBfcCjoLzCbLAbOk8YHYZYYomk1gk49MhKtr_X0W_WQaAglOEALw_wcB)
+- [Caran d'Ache](https://www.carandache.com/be/fr/?gclid=Cj0KCQiA2vjuBRCqARIsAJL5a-JdaFeEcpntY37oruHsRdLtBeCAG4HjGIPOH0vaGnv7v16fFm16O04aAu7mEALw_wcB)
+
+Dans le repo, vous trouvrez un dossier 00-01 contenant des images pour l'exercice.
