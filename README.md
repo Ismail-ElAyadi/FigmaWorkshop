@@ -40,8 +40,8 @@ Vous arrivez sur cette page :
 
 ## L'interface d'un projet
 
-**Barre du haut**
-![Menu Top](/assets/menuTop.png)
+**Barre du haut**  
+![Menu Top](/assets/menuTop.png)  
 Dans l'ordre, de gauche à droite :
 
 - **Menu Burger** : Toutes les interactions que vous pourrez faire sont résumées ici, ainsi que la gestion de fichier.
