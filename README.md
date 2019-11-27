@@ -60,3 +60,22 @@ Dans l'ordre, de gauche à droite :
 - **Code** : Vous reprendrez bien un peu de CSS ?
 
 Le bouton **PLAY** vous permet de tester votre appli en "conditions réelles".
+
+## Petit échauffement
+
+Pour commencer, histoire de prendre ses marques, on va se créer une page avec quelques éléments :
+
+- un titre
+- une image
+- une couleur de fond
+- un élément en plus de votre choix
+
+### First step :
+
+On clique sur **Frame** et on choisit un type d'appareil (Desktop > MacBook)  
+![projet](./assets/projet01.png)
+
+Le menu de droite vous permet de configurer l'élément nouvellement créé.  
+![menu droite](./assets/projet01_menuDroite.png)
+
+Commençons par changer la couleur de fond. ASTUCE : Background :scream:
