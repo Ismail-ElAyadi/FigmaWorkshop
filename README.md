@@ -88,3 +88,17 @@ Non ? Vous êtes de ceux qui ne lisent pas la doc... Allez, je suis sympa : **c'
 Sinon, le drag & drop fonctionne bien aussi.  
 A **droite**, toujours pareil, les réglages de l'élement. A **gauche**, dans l'onglet **Layers**, votre image apparaît.  
 ![image](./assets/projet01_img.png)
+
+Lorsque vous aurez placé votre image, vous aurez la possibilité de la redimensionner. Pour garder le ratio hauteur/largeur, maintenez **SHIFT** enfoncé.
+
+### Titre !
+
+M'est d'avis que vous savez quoi faire...
+![title](./assets/projet01_title.png)
+
+Dans le menu de droite, vous trouverez un moyen de rajouter des **effets**. Vous remarquerez aussi que votre texte s'est rajouté dans le menu de gauche.  
+Une arborescence s'est créée et contient tout ce qu'il y a dans votre "vue" Mac-Book. Figma fonctionne par "pages".
+
+### L'élément bonus
+
+Je vous laisse vous débrouiller, vous êtes grands maintenant !
