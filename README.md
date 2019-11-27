@@ -40,6 +40,18 @@ Vous arrivez sur cette page :
 
 ## L'interface d'un projet
 
+**Barre du haut**
+![Menu Top](/assets/menuTop.png)
+Dans l'ordre, de gauche à droite :
+
+- **Menu Burger** : Toutes les interactions que vous pourrez faire sont résumées ici, ainsi que la gestion de fichier.
+- **La flèche / Move** : Sélectionner, déplacer...
+- **La grille / Frame** : Création d'une nouvelle vue. A droite, vous pouvez choisir pour quel type d'appareil est destinée votre appli (Iphone, Ipad, Desktop...)
+- **Le carré / Rectangle** : Pour dessiner les éléments (formes, lignes, ajout d'images...)
+- **La plume / Pen** : Pour faire des gribouillages partout, en vectoriel ou à main levée...
+- **Texte** : Je vous laisse deviner...
+- **La bubulle** : Pour rajouter ou afficher/cacher les commentaires. Toujours pratique !
+
 **Menu de droite**  
 ![Menu droite](./assets/menuDroite.png)
 
